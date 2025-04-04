@@ -1,0 +1,2 @@
+/*
+  Content-Security-Policy: connect-src 'self' https://prod.spline.design https://yiiarlagxlrzzomzpqid.supabase.co wss://yiiarlagxlrzzomzpqid.supabase.co;
